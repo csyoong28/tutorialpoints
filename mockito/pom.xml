@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  	<modelVersion>4.0.0</modelVersion>
+
+  	<artifactId>mockito-tutorialspoint-root</artifactId>
+  	<packaging>pom</packaging>
+  	<name>mockito-tutorialspoint-root</name>
+  	<description>mockito tutorialspoint root</description>
+  
+	<parent>
+		<groupId>org.cpm.zerowastelife</groupId>
+		<artifactId>root</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	
+  	<dependencies>
+  	</dependencies>
+  
+	<modules>
+	    <module>mockito-tutorialspoint-ch3</module>
+	    <module>mockito-tutorialspoint-ch4</module>
+	    <module>mockito-tutorialspoint-ch5</module>
+	    <module>mockito-tutorialspoint-ch6</module>
+	    <module>mockito-tutorialspoint-ch7</module>
+	    <module>mockito-tutorialspoint-ch8</module>
+	    <module>mockito-tutorialspoint-ch9</module>
+	    <module>mockito-tutorialspoint-ch10</module>
+	    <module>mockito-tutorialspoint-ch11</module>
+	    <module>mockito-tutorialspoint-ch12</module>
+	    <module>mockito-tutorialspoint-ch13</module>
+	    <module>mockito-tutorialspoint-ch14</module>
+	    <module>mockito-tutorialspoint-ch15</module>
+    	<module>mockito-tutorialspoint-ch16</module>
+    	<module>mockito-tutorialspoint-shared</module>
+  	</modules>
+</project>
